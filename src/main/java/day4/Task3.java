@@ -39,7 +39,7 @@ public class Task3 {
 				buffer += array[i][j];
 			}
 			System.out.println(buffer);
-			if (buffer > maxSum) {
+			if (buffer >= maxSum) {
 				maxSum = buffer;
 				index = i;
 			}

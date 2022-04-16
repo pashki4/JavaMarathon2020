@@ -30,6 +30,5 @@ public class Task4 {
 		}
 		System.out.println(
 				"Max sum of near three numbers: " + maxValueOf3NearNumbers);
-		System.out.println("Index of first of three: " + indexOfFirsOfThree);
-	}
+		System.out.println("Index of first of three: " + indexOfFirsOfThree);	}
 }
