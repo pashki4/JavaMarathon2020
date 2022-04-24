@@ -46,10 +46,6 @@ public class User {
 		this.subscriptions = subscriptions;
 	}
 
-	public List<User> getFriends() {
-		return this.friends;
-	}
-
 	@Override
 	public String toString() {
 		return "User [name=" + name + "]";

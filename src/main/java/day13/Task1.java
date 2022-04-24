@@ -20,5 +20,6 @@ public class Task1 {
 		user3.sendMessage(user1, "bye");
 		
 		MessageDatabase.showDialog(user1, user3);
+		
 	}
 }
