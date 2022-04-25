@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Task1 {
 	public static void main(String[] args) {
-		printSumDigits(new File("numbers"));
+		printSumDigits(new File("numbers.txt"));
 	}
 
 	public static void printSumDigits(File file) {
