@@ -12,7 +12,8 @@ public enum ChessPiece {
 	BLACK_ROOK("\u265C",5),
 	BLACK_BISHOP("\u265D",3.5),
 	BLACK_KNIGHT("\u265E",3),
-	BLACK_PAWN("\u265F",1);
+	BLACK_PAWN("\u265F",1),
+	EMPTY("_", -1);
 	
 
 	private final String symbol;
